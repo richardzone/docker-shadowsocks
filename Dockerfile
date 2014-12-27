@@ -3,7 +3,7 @@
 # VERSION 0.0.3
 
 FROM ubuntu
-MAINTAINER Dariel Dato-on <oddrationale@gmail.com>
+MAINTAINER Ziyi LIU <i@richard.zone>
 
 RUN apt-get update && \
     apt-get install -y python-pip python-m2crypto
